@@ -9,6 +9,7 @@ Data Set can be easily replaced by yours can you can obtain the result by simply
         
         
 **Model2**- Multiple_linear_Regression
+
         It has been performed by poor data set, so first performed **PREPROCESSING** and **Data_cleaning** by
         Exploring the descriptive statistics of the variables
         Determining the variables of interest
